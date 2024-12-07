@@ -14,6 +14,7 @@ Question 2:
 2. Run Code
 
 Output
+![image](https://github.com/user-attachments/assets/d2c2c863-eac9-4104-9b26-9d6cf1dbd0c8)
 
 Question 3:
 1. Comment out code for Question 1 and Question 2
