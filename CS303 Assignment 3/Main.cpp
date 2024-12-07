@@ -4,8 +4,8 @@
 // Credit: Chatgpt and peer for helping me fix up some of my code
 
 //#include "Q1Function.h"
-#include "Q2Function.h"
-#include "Q3Function.h" 
+//#include "Q2Function.h"
+//#include "Q3Function.h" 
 
 int main()
 {
