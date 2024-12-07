@@ -1,9 +1,10 @@
 // Name: Alyssa Barbee
-// Date: 11/07/24
+// Date: 12/6/24
 // CS303 Assignemt 3
+// Credit: Chatgpt and peer for helping me fix up some of my code
 
 //#include "Q1Function.h"
-// #include "Q2Function.h"
+#include "Q2Function.h"
 #include "Q3Function.h" 
 
 int main()
@@ -44,6 +45,7 @@ int main()
         cout << "Target not found in the vector." << endl;
     */
     
+    /*
     //Create list
     list<int> my_list;
 
@@ -64,4 +66,5 @@ int main()
     insertion_sort(my_list); 
 
     return 0;
+    */
 }
